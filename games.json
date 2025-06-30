@@ -1,0 +1,12 @@
+[
+  {
+    "title": "FIFA Football",
+    "imageUrl": "https://example.com/images/fifa.png",
+    "category": "Sports"
+  },
+  {
+    "title": "PUBG",
+    "imageUrl": "https://example.com/images/pubg.png",
+    "category": "Action"
+  }
+]
