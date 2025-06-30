@@ -1,51 +1,16 @@
 [
   {
     "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },{
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
-  },
-  {
-    "title": "FIFA Football",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Marvel%27s_Spider-Man_2_%282025%29_logo_official_%28SGDB_124347%29.png",
-    "category": "Sports"
+    "imageUrl": "https://example.com/fifa.png",
+    "category": "Sports",
+    "description": "A realistic football simulation game.",
+    "downloadUrl": "https://example.com/fifa.apk"
   },
   {
     "title": "PUBG",
-    "imageUrl": "https://example.com/images/pubg.png",
-    "category": "Action"
+    "imageUrl": "https://example.com/pubg.png",
+    "category": "Action",
+    "description": "Battle royale shooter.",
+    "downloadUrl": "https://example.com/pubg.apk"
   }
 ]
